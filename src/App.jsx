@@ -13,7 +13,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
 // User
-import DashboardLayout from './components/DashboardLayou';
+import DashboardLayout from './components/DashboardLayout';
 import DashboardHome from './Pages/dashboard/DashboardHome';
 import Survey from './Pages/dashboard/Survey';
 import Offers from './Pages/dashboard/Offers';
